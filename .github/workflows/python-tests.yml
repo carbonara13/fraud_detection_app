@@ -32,5 +32,7 @@ jobs:
 
     # 4. Запускаємо тести з папки tests/
     - name: Run tests with pytest
+      env:
+        PYTHONPATH: .
       run: |
         pytest
