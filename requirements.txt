@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+scikit-learn
+joblib
+pytest
+httpx
+pandas
+uuid
+datetime
+starlette
+httpx2
